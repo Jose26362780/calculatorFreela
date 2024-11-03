@@ -20,9 +20,7 @@ O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer
 ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Link da aplicação
 
-👉🏼[Clique aqui para accessar](https://convert-template.netlify.app/)
 
 
 ## 🔖 Layout
